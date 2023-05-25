@@ -1,0 +1,2 @@
+# TP2_POO
+LAB 2 PyQt and SQL
